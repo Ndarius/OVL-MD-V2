@@ -3,6 +3,7 @@ const quiz = require("../../lib/quiz");
 module.exports = {
     name: "quizcg",
     description: "Démarre un quiz de culture générale ou répond à une question.",
+    category: "ovl-games",
     async execute(message, args) {
         const prefix = "+"; // Assuming the prefix is '+' as per user request
         const command = args[0];
