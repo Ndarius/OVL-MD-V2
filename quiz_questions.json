@@ -1,0 +1,434 @@
+[
+  {
+    "question": "Quelle est la capitale de la France ?",
+    "answer": "Paris"
+  },
+  {
+    "question": "Qui a peint la Joconde ?",
+    "answer": "Léonard de Vinci"
+  },
+  {
+    "question": "Quel est le plus grand océan du monde ?",
+    "answer": "Océan Pacifique"
+  },
+  {
+    "question": "Combien de continents y a-t-il sur Terre ?",
+    "answer": "Sept"
+  },
+  {
+    "question": "Quel est le plus haut sommet du monde ?",
+    "answer": "Mont Everest"
+  },
+  {
+    "question": "Qui a écrit 'Roméo et Juliette' ?",
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "Quelle est la monnaie du Japon ?",
+    "answer": "Yen"
+  },
+  {
+    "question": "Quel est l'élément chimique de symbole H ?",
+    "answer": "Hydrogène"
+  },
+  {
+    "question": "Quel animal est connu pour sa longue trompe ?",
+    "answer": "Éléphant"
+  },
+  {
+    "question": "Quel est le pays le plus peuplé du monde ?",
+    "answer": "Chine"
+  },
+  {
+    "question": "Qui a découvert l'Amérique ?",
+    "answer": "Christophe Colomb"
+  },
+  {
+    "question": "Quel est le plus grand désert du monde ?",
+    "answer": "Désert de l'Antarctique"
+  },
+  {
+    "question": "Combien de côtés a un triangle ?",
+    "answer": "Trois"
+  },
+  {
+    "question": "Quel est le nom de la galaxie où se trouve la Terre ?",
+    "answer": "Voie lactée"
+  },
+  {
+    "question": "Qui a inventé l'ampoule électrique ?",
+    "answer": "Thomas Edison"
+  },
+  {
+    "question": "Quel est le plus grand fleuve d'Afrique ?",
+    "answer": "Nil"
+  },
+  {
+    "question": "Quel est le sport national du Canada ?",
+    "answer": "Hockey sur glace"
+  },
+  {
+    "question": "Quel est le métal le plus abondant dans la croûte terrestre ?",
+    "answer": "Aluminium"
+  },
+  {
+    "question": "Quel est le nom du premier homme à avoir marché sur la Lune ?",
+    "answer": "Neil Armstrong"
+  },
+  {
+    "question": "Quelle est la capitale de l'Italie ?",
+    "answer": "Rome"
+  },
+  {
+    "question": "Qui a écrit 'Le Petit Prince' ?",
+    "answer": "Antoine de Saint-Exupéry"
+  },
+  {
+    "question": "Quel est le plus grand lac d'eau douce du monde ?",
+    "answer": "Lac Supérieur"
+  },
+  {
+    "question": "Combien de planètes y a-t-il dans notre système solaire ?",
+    "answer": "Huit"
+  },
+  {
+    "question": "Quel est le nom de l'instrument qui mesure la température ?",
+    "answer": "Thermomètre"
+  },
+  {
+    "question": "Qui a composé la 'Symphonie n° 5' ?",
+    "answer": "Ludwig van Beethoven"
+  },
+  {
+    "question": "Quelle est la couleur du cheval blanc d'Henri IV ?",
+    "answer": "Blanc"
+  },
+  {
+    "question": "Quel est le plus grand mammifère terrestre ?",
+    "answer": "Éléphant d'Afrique"
+  },
+  {
+    "question": "Quel est le pays d'origine de la pizza ?",
+    "answer": "Italie"
+  },
+  {
+    "question": "Qui a fondé Microsoft ?",
+    "answer": "Bill Gates"
+  },
+  {
+    "question": "Quel est le nom de l'océan qui sépare l'Europe de l'Amérique ?",
+    "answer": "Océan Atlantique"
+  },
+  {
+    "question": "Combien de jours y a-t-il dans une année bissextile ?",
+    "answer": "366"
+  },
+  {
+    "question": "Quel est le nom de la planète rouge ?",
+    "answer": "Mars"
+  },
+  {
+    "question": "Qui a inventé le téléphone ?",
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "Quel est le plus grand oiseau du monde ?",
+    "answer": "Autruche"
+  },
+  {
+    "question": "Quel est le nom de l'animal qui produit le miel ?",
+    "answer": "Abeille"
+  },
+  {
+    "question": "Quel est le plus grand pays d'Amérique du Sud ?",
+    "answer": "Brésil"
+  },
+  {
+    "question": "Qui a écrit 'Don Quichotte' ?",
+    "answer": "Miguel de Cervantes"
+  },
+  {
+    "question": "Quel est le nom de la mer qui borde la France au sud ?",
+    "answer": "Mer Méditerranée"
+  },
+  {
+    "question": "Combien de doigts a une main humaine ?",
+    "answer": "Cinq"
+  },
+  {
+    "question": "Quel est le nom de l'étoile la plus proche de la Terre ?",
+    "answer": "Soleil"
+  },
+  {
+    "question": "Qui a inventé la théorie de la relativité ?",
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "Quel est le plus grand reptile du monde ?",
+    "answer": "Crocodile marin"
+  },
+  {
+    "question": "Quel est le nom de l'instrument qui mesure le temps ?",
+    "answer": "Horloge"
+  },
+  {
+    "question": "Quel est le nom de l'animal qui est le roi de la jungle ?",
+    "answer": "Lion"
+  },
+  {
+    "question": "Quel est le plus grand pays d'Asie ?",
+    "answer": "Chine"
+  },
+  {
+    "question": "Qui a écrit 'Les Misérables' ?",
+    "answer": "Victor Hugo"
+  },
+  {
+    "question": "Quel est le nom de la montagne la plus haute d'Afrique ?",
+    "answer": "Kilimandjaro"
+  },
+  {
+    "question": "Combien de couleurs y a-t-il dans l'arc-en-ciel ?",
+    "answer": "Sept"
+  },
+  {
+    "question": "Quel est le nom de la planète la plus proche du Soleil ?",
+    "answer": "Mercure"
+  },
+  {
+    "question": "Qui a inventé la presse à imprimer ?",
+    "answer": "Johannes Gutenberg"
+  },
+  {
+    "question": "Quel est le plus grand poisson du monde ?",
+    "answer": "Requin-baleine"
+  },
+  {
+    "question": "Quel est le nom de l'animal qui est le symbole de la sagesse ?",
+    "answer": "Chouette"
+  },
+  {
+    "question": "Quel est le plus grand pays d'Europe ?",
+    "answer": "Russie"
+  },
+  {
+    "question": "Qui a écrit 'Guerre et Paix' ?",
+    "answer": "Léon Tolstoï"
+  },
+  {
+    "question": "Quel est le nom de la mer qui borde la France à l'ouest ?",
+    "answer": "Océan Atlantique"
+  },
+  {
+    "question": "Combien de pattes a une araignée ?",
+    "answer": "Huit"
+  },
+  {
+    "question": "Quel est le nom de la planète la plus éloignée du Soleil ?",
+    "answer": "Neptune"
+  },
+  {
+    "question": "Qui a inventé la radio ?",
+    "answer": "Guglielmo Marconi"
+  },
+  {
+    "question": "Quel est le plus grand félin du monde ?",
+    "answer": "Tigre"
+  },
+  {
+    "question": "Quel est le nom de l'animal qui est le symbole de la paix ?",
+    "answer": "Colombe"
+  },
+  {
+    "question": "Quel est le plus grand pays d'Amérique du Nord ?",
+    "answer": "Canada"
+  },
+  {
+    "question": "Qui a écrit '1984' ?",
+    "answer": "George Orwell"
+  },
+  {
+    "question": "Quel est le nom de la chaîne de montagnes la plus longue du monde ?",
+    "answer": "Andes"
+  },
+  {
+    "question": "Combien de temps dure une année lumière ?",
+    "answer": "Une année"
+  },
+  {
+    "question": "Quel est le nom de la planète avec les anneaux ?",
+    "answer": "Saturne"
+  },
+  {
+    "question": "Qui a inventé la machine à vapeur ?",
+    "answer": "James Watt"
+  },
+  {
+    "question": "Quel est le plus grand rongeur du monde ?",
+    "answer": "Capybara"
+  },
+  {
+    "question": "Quel est le nom de l'animal qui est le symbole de la force ?",
+    "answer": "Ours"
+  },
+  {
+    "question": "Quel est le plus grand pays d'Océanie ?",
+    "answer": "Australie"
+  },
+  {
+    "question": "Qui a écrit 'Orgueil et Préjugés' ?",
+    "answer": "Jane Austen"
+  },
+  {
+    "question": "Quel est le nom du désert le plus chaud du monde ?",
+    "answer": "Désert du Sahara"
+  },
+  {
+    "question": "Combien de côtés a un carré ?",
+    "answer": "Quatre"
+  },
+  {
+    "question": "Quel est le nom de la planète la plus brillante dans le ciel nocturne ?",
+    "answer": "Vénus"
+  },
+  {
+    "question": "Qui a inventé le World Wide Web ?",
+    "answer": "Tim Berners-Lee"
+  },
+  {
+    "question": "Quel est le plus grand marsupial du monde ?",
+    "answer": "Kangourou"
+  },
+  {
+    "question": "Quel est le nom de l'animal qui est le symbole de la liberté ?",
+    "answer": "Aigle"
+  },
+  {
+    "question": "Quel est le plus grand pays d'Amérique centrale ?",
+    "answer": "Nicaragua"
+  },
+  {
+    "question": "Qui a écrit 'Le Seigneur des Anneaux' ?",
+    "answer": "J.R.R. Tolkien"
+  },
+  {
+    "question": "Quel est le nom du plus grand canyon du monde ?",
+    "answer": "Grand Canyon"
+  },
+  {
+    "question": "Combien de temps dure une heure ?",
+    "answer": "60 minutes"
+  },
+  {
+    "question": "Quel est le nom de la planète la plus grande de notre système solaire ?",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Qui a inventé la dynamite ?",
+    "answer": "Alfred Nobel"
+  },
+  {
+    "question": "Quel est le plus grand primate du monde ?",
+    "answer": "Gorille"
+  },
+  {
+    "question": "Quel est le nom de l'animal qui est le symbole de la ruse ?",
+    "answer": "Renard"
+  },
+  {
+    "question": "Quel est le plus grand pays d'Afrique ?",
+    "answer": "Algérie"
+  },
+  {
+    "question": "Qui a écrit 'Crime et Châtiment' ?",
+    "answer": "Fiodor Dostoïevski"
+  },
+  {
+    "question": "Quel est le nom du plus grand lac salé du monde ?",
+    "answer": "Mer Caspienne"
+  },
+  {
+    "question": "Combien de côtés a un pentagone ?",
+    "answer": "Cinq"
+  },
+  {
+    "question": "Quel est le nom de la planète bleue ?",
+    "answer": "Terre"
+  },
+  {
+    "question": "Qui a inventé le vaccin contre la rage ?",
+    "answer": "Louis Pasteur"
+  },
+  {
+    "question": "Quel est le plus grand insecte du monde ?",
+    "answer": "Phasme"
+  },
+  {
+    "question": "Quel est le nom de l'animal qui est le symbole de la fidélité ?",
+    "answer": "Chien"
+  },
+  {
+    "question": "Quel est le plus grand pays d'Amérique du Nord ?",
+    "answer": "Canada"
+  },
+  {
+    "question": "Qui a écrit 'Le Rouge et le Noir' ?",
+    "answer": "Stendhal"
+  },
+  {
+    "question": "Quel est le nom du plus grand fleuve d'Amérique du Sud ?",
+    "answer": "Amazone"
+  },
+  {
+    "question": "Combien de temps dure une minute ?",
+    "answer": "60 secondes"
+  },
+  {
+    "question": "Quel est le nom de la planète la plus chaude de notre système solaire ?",
+    "answer": "Vénus"
+  },
+  {
+    "question": "Qui a inventé la photographie ?",
+    "answer": "Nicéphore Niépce"
+  },
+  {
+    "question": "Quel est le plus grand oiseau de proie du monde ?",
+    "answer": "Condor des Andes"
+  },
+  {
+    "question": "Quel est le nom de l'animal qui est le symbole de la royauté ?",
+    "answer": "Aigle"
+  },
+  {
+    "question": "Quel est le plus grand pays d'Océanie ?",
+    "answer": "Australie"
+  },
+  {
+    "question": "Qui a écrit 'Madame Bovary' ?",
+    "answer": "Gustave Flaubert"
+  },
+  {
+    "question": "Quel est le nom du plus grand lac d'Amérique du Nord ?",
+    "answer": "Lac Supérieur"
+  },
+  {
+    "question": "Combien de temps dure un siècle ?",
+    "answer": "Cent ans"
+  },
+  {
+    "question": "Quel est le nom de la planète la plus froide de notre système solaire ?",
+    "answer": "Neptune"
+  },
+  {
+    "question": "Qui a inventé le cinéma ?",
+    "answer": "Frères Lumière"
+  },
+  {
+    "question": "Quel est le plus grand animal marin du monde ?",
+    "answer": "Baleine bleue"
+  },
+  {
+    "question": "Quel est le nom de l'animal qui est le symbole de la persévérance ?",
+    "answer": "Fourmi"
+  }
+]
